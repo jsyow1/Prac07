@@ -1,4 +1,9 @@
-var listOfAllKnownAuthors = [] // hello, i ate a cookie
+// Taroshan Singh Bhajan Singh
+// Jen Shum Yow
+// Hun Lm Yow
+// 123
+
+var listOfAllKnownAuthors = []
 
 class BookStore
 {
