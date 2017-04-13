@@ -1,3 +1,7 @@
+// Taroshan Singh Bhajan Singh
+// Jen Shum Yow
+// Hun Lm Yow
+
 var listOfAllKnownAuthors = []
 
 class BookStore
