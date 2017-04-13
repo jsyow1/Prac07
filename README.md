@@ -1,5 +1,5 @@
 var listOfAllKnownAuthors = [] // hello, i ate a cookie
-
+// hello there
 class BookStore
 {
     constructor(name, address, owner)
