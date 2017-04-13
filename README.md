@@ -1,8 +1,4 @@
-// Taroshan Singh Bhajan Singh
-// Jen Shum Yow
-// Hun Lm Yow
-
-var listOfAllKnownAuthors = []
+var listOfAllKnownAuthors = [] // hello, i ate a cookie
 
 class BookStore
 {
